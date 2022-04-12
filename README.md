@@ -11,6 +11,7 @@ selecionar o numero correspondente ao seu gesto de mão, por exemplo:
 
 3- Tesoura
 
+
 Após isso o programa irá mostra quem foi o grande vencedor!  Ah, e lembrem-se...
 
 Pedra vence Tesoura
@@ -18,5 +19,6 @@ Pedra vence Tesoura
 Tesoura vence Papel
 
 e Papel vence Pedra
+
 
 Boa sorte a todos, e que vença o melhor!
